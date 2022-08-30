@@ -9,7 +9,9 @@
     gap: 2rem;
 }
 
-
+.main-content{
+  overflow: hidden;
+}
 
 .heading{
     font-weight: bold;
